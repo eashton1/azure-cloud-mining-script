@@ -5,11 +5,4 @@ sudo apt -y install libmicrohttpd-dev libssl-dev cmake build-essential libhwloc-
 git clone https://github.com/eashton1/azure-cloud-mining-script
 
 cd azure-cloud-mining-script
-azure_script/compile_and_config.sh
-
-
-
-
-
-
-
+sudo azure_script/compile_and_config.sh
